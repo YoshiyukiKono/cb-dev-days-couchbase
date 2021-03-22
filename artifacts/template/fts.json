@@ -50,11 +50,11 @@
      }
     },
     "sourceType": "couchbase",
-    "sourceName": "{{BUCKET}}",
+    "sourceName": "retailsample",
     "sourceParams": {},
     "planParams": {
      "maxPartitionsPerPIndex": 171,
      "indexPartitions": 6,
      "numReplicas": 0
     }
-   }   
+}   
