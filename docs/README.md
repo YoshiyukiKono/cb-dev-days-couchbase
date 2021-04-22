@@ -1,5 +1,6 @@
 # 目次
-1. Couchbase Serverの実行
+## Couchbase Server 環境構築
+1. Dockerを使った導入
 1. クラスターの構築
 1. バケットの作成
 1. データ登録
