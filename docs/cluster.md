@@ -12,7 +12,9 @@
 上記の画面に見える通り、インストール直後にWEBコンソールにアクセスした際の初めの選択肢は、「Setup New Cluster」と、「Join Existing Cluster」の二つです。
 ここでは、前者を選択します。
 
-次の様な画面が表示されるので、適宜入力します。「Next: Accept Terms」を押します。
+次の様な画面が表示されるので、適宜入力します。
+
+「Next: Accept Terms」を押します。
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/ddb070e2-054f-4508-c365-5ead17c07de9.png)
 
