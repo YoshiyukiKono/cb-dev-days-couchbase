@@ -1,6 +1,6 @@
 # Couchbase NoSQL Developer Workshop
 
-WORK IN PROGRESS (作業中)
+WORK IN PROGRESS (作業中) - ドラフト V1(4/30)
 
 ## 講義
 [slides](./slides)ディレクトリに、講義セッションで利用するスライドのPDFファイルを格納しています。
