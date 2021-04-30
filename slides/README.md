@@ -1,7 +1,6 @@
 # 講義スライド
 
-1. [イントロダクション](Introduction.pdf)
-2. [アーキテクチャー](Architecture.pdf)
-3. [データモデリング](Modeling.pdf)
-4. [N1QL](N1QL.pdf)
-5. [SDK](SDK.pdf)
+1. [アーキテクチャー](Architecture_JP.pdf)
+1. [データモデリング](Modeling_JP.pdf)
+1. [N1QL](N1QL_JP.pdf)
+1. [SDK](SDK_JP.pdf)
