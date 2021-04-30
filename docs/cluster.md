@@ -14,15 +14,15 @@
 
 次の様な画面が表示されるので、適宜入力します。
 
-「Next: Accept Terms」を押します。
-
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/ddb070e2-054f-4508-c365-5ead17c07de9.png)
+
+「Next: Accept Terms」を押下します。
 
 ### Terms and Conditions
 適宜、チェックボックス押下します。
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/1dc0c981-0230-71ea-5900-7a11654a0d88.png)
 
-「Finish With Defaults」で終了することもできますが、「Configure Disk, Memory, Services」をみてみましょう。
+「Configure Disk, Memory, Services」を押下します。
 
 ### クラスター設定
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/bee1f866-2d23-cfaa-38f5-21d6cbe07caf.png)
