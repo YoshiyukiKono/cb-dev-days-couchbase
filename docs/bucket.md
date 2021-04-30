@@ -10,10 +10,8 @@
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/d59d4048-a677-adb6-1057-bc0f725a3098.png)
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/fffb9e50-fac3-ca95-a9d0-44a3b21d9189.png)
 
-
-「Advanced bucket settings」を展開し、Replicasのチェックボックスを外します。（レプリカを有効にするには最低２ノード必要であるため、今回の演習で用いる１ノード構成のクラスターでは、チェックボックスを外さない場合は、バケット作成後、常時ワーニングが表示されてしまいます）
+「Advanced bucket settings」を展開し、ReplicasセクションののEnabledチェックボックスを外します。（レプリカを有効にするには最低２ノード必要であるため、今回の演習で用いる１ノード構成のクラスターでは、チェックボックスを外さない場合は、バケット作成後、常時ワーニングが表示されてしまいます）
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/074d8c3d-c835-13be-c31a-e64ad199c51d.png)
 
 開発時の利便性のため、Flushを有効にしておきます。（Flushボタンが有効になり、このボタンを押下することで、バケットのデータをすべて削除することが可能になります。）
@@ -22,6 +20,3 @@
 
 「Add Bucke」ボタンを押下します。(バケットの設定は後からも変更可能です)
 
-「Flush」ボタンが追加されました。
-
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/54215dc1-40fe-8894-d756-97713198568e.png)
