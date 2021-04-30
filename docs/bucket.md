@@ -6,22 +6,22 @@
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/4f22f5df-45d6-e38c-1709-806eec6137b6.png)
 
-適当な名前を入力して「Add Bucke」ボタンを押下します。(バケットの設定は後から変更可能です)
+この演習で用いるバケット名として、`retailsample`を入力してください。
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/d59d4048-a677-adb6-1057-bc0f725a3098.png)
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/fffb9e50-fac3-ca95-a9d0-44a3b21d9189.png)
 
 
-こんな感じになったかと思います。「Warning」が表示されていますが、これは、デフォルトでレプリカの設定が有効になっているためです。アラートが表示されない様にするため「Edit」を押下します。
-
-「Advanced bucket settings」を展開し、Replicasのチェックボックスを外します。
+「Advanced bucket settings」を展開し、Replicasのチェックボックスを外します。（レプリカを有効にするには最低２ノード必要であるため、今回の演習で用いる１ノード構成のクラスターでは、チェックボックスを外さない場合は、バケット作成後、常時ワーニングが表示されてしまいます）
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/074d8c3d-c835-13be-c31a-e64ad199c51d.png)
 
-ついでに、Flushを有効にしておきます。「Save Changes」を押下します。
+開発時の利便性のため、Flushを有効にしておきます。（Flushボタンが有効になり、このボタンを押下することで、バケットのデータをすべて削除することが可能になります。）
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/d941c1d1-e772-a55e-0c1e-5b31f4df1f1d.png)
 
-「Warning」が消え、「Flush」ボタンが追加されました。
+「Add Bucke」ボタンを押下します。(バケットの設定は後からも変更可能です)
+
+「Flush」ボタンが追加されました。
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/54215dc1-40fe-8894-d756-97713198568e.png)
