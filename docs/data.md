@@ -15,6 +15,5 @@
 - Parse File As: JSON List
 - Destination Bucket: `retailsample`
 - Import With Document ID: `_id`(トグルボタンの「Value of Field」を選択の上、リストから選択)
-- Verify Password: password
 5. ここまでの入力した内容に従って、左上部画面の`cbimport`コマンド実行用のパラメータが更新されます。
 6. 画面下の「Import Data」ボタンを押下します。
