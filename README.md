@@ -1,6 +1,9 @@
 # Couchbase NoSQL Developer Workshop
 
-WORK IN PROGRESS (作業中) - ドラフト V1(4/30)
+## 事前準備
+
+[こちら](https://github.com/YoshiyukiKono/cb-dev-days-couchbase/blob/main/labs/Lab%20-%20Prerequisite%20Steps_JP.pdf)から事前準備の手順をご参照ください。
+演習に利用する環境でDockerとGitが利用できる場合は、特に追加でご準備いただく必要はありません（Gitについては、リポジトリ全体をブラウザからダウンロードしていただく形で演習を進めることも可能です）
 
 ## 講義
 [slides](./slides)ディレクトリに、講義セッションで利用するスライドのPDFファイルを格納しています。
