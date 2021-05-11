@@ -2,7 +2,7 @@
 
 演習で使うデータは[/artifacts/data](/artifacts/data)に格納されています。
 
-## データ登録手順
+## 登録手順
 
 ここでは、WEB管理コンソールからのデータ登録手順を示します（同画面から、コマンドで実行する際の書式について参照可能になっています）。
 
@@ -17,3 +17,5 @@
 - Import With Document ID: `_id`(トグルボタンの「Value of Field」を選択の上、リストから選択)
 5. ここまでの入力した内容に従って、左上部画面の`cbimport`コマンド実行用のパラメータが更新されます。
 6. 画面下の「Import Data」ボタンを押下します。
+
+[目次へ戻る](https://github.com/YoshiyukiKono/cb-dev-days-couchbase/blob/main/docs/README.md)
