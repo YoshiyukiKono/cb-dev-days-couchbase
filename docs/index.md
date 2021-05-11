@@ -23,3 +23,5 @@ CREATE INDEX `idx_user_pw` ON `retailsample`(`username`,`userId`,`password`) WHE
 ## 確認
 1. サイドメニューから、「Indexes」を選択します。
 2. 上記で作成したインデックスが表示され、それぞれ（列左端の）「status」が「ready」であることを確認します。
+
+[目次へ戻る](https://github.com/YoshiyukiKono/cb-dev-days-couchbase/blob/main/docs/README.md)
