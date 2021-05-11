@@ -12,7 +12,7 @@ CouchbaseのDockerリポジトリから最新版（"couchbase:latest"）がダ�
 
 [http://localhost:8091](http://localhost:8091)にアクセスします。
 
-下記の様な画面が表示されます。
+下記の様な画面が表示されます。（バージョン、ビルド番号の違いは気にされる必要はありません）
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/79d3a19c-2160-bd8b-5a21-398fb54b8563.png)
 
