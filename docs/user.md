@@ -10,3 +10,4 @@
 4. 画面右半分の「Roles」ツリー画面で、`retailsample`を開き、「Application Access」にチェックします。
 5. 「Add User」ボタンを押下します。
 
+[目次へ戻る](https://github.com/YoshiyukiKono/cb-dev-days-couchbase/blob/main/docs/README.md)
