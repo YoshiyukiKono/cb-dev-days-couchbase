@@ -14,6 +14,8 @@ CouchbaseのDockerリポジトリから最新版（"couchbase:latest"）がダ�
 
 下記の様な画面が表示されます。
 
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/79d3a19c-2160-bd8b-5a21-398fb54b8563.png)
+
 #### ログの確認
 
 `db`は、`docker run`コマンドの`--name`オプションで指定したものです。
