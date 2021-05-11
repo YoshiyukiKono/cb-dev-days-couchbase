@@ -24,8 +24,7 @@
 
 [labs](./labs)ディレクトリに格納されているPDF資料に従って、演習を実施してください。
 
-## 参考情報
-### 関連リポジトリ
+## 関連リポジトリ
 [cb-dev-days-node3x](https://github.com/YoshiyukiKono/cb-dev-days-node3x)
 
 [cb-dev-days-web](https://github.com/YoshiyukiKono/cb-dev-days-web)
