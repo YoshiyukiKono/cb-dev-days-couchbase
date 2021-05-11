@@ -36,7 +36,7 @@
 
 「Save & Finish」を押下し、終了します
 
-最終的にこの様な画面が表示されました。
+最終的にこの様な画面が表示されます。
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/176567/2cf3e5de-2056-0c62-af90-68e64d7e9513.png)
 
 [目次へ戻る](https://github.com/YoshiyukiKono/cb-dev-days-couchbase/blob/main/docs/README.md)
