@@ -14,3 +14,4 @@ WEBコンソールにて、下記のように全文検索インデックスが�
 1. サイドメニューから、「Search」を選択します。
 2. 「index name」が`basic-search`である、Full Text Indexが作成され、「indexing progress」が100%であることを確認します。
 
+[目次へ戻る](https://github.com/YoshiyukiKono/cb-dev-days-couchbase/blob/main/docs/README.md)
